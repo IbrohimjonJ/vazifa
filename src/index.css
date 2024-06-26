@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.Card1{
+  cursor: pointer;
+  text-align: center;
+border-radius: 10px ;
+  position: absolute;
+  margin-top: -800px;
+  margin-left: 430px;
+  width: 600px;
+  height: 90px;
+  font-size: 16px;
+  background-color: white;
+  color: black;
+  border: 5px solid rgb(139, 97, 97);
+ 
+}
+.Card2{
+  cursor: pointer;
+  text-align: center;
+border-radius: 10px ;
+  position: absolute;
+  margin-top: -680px;
+  margin-left: 430px;
+  width: 600px;
+  height: 90px;
+  font-size: 16px;
+  background-color: white;
+  color: black;
+  border: 5px solid rgb(139, 97, 97);
+ }
+ .name{
+margin-left: 650px;
+ }
